@@ -2,6 +2,12 @@
 
 A data processing and analysis project focused on historical FIFA World Cup tournaments. The project cleans, transforms, and consolidates raw tournament records, host country information, and player awards into structured datasets.
 
+## Report
+
+The Power BI report built on top of the processed datasets is available as a PDF (static, non-interactive): [WorldCupReport.pdf](report/WorldCupReport.pdf).
+
+The interactive source file is [worldcup.pbix](report/worldcup.pbix) and can be opened with Power BI Desktop.
+
 ## Project Structure
 
 ```text
@@ -14,6 +20,9 @@ world-cup-analytics/
 │   ├── 02_worldcup.ipynb
 │   ├── 03_hosts.ipynb
 │   └── 04_awards.ipynb
+├── report/
+│   ├── worldcup.pbix        # Power BI report (interactive)
+│   └── WorldCupReport.pdf   # Static PDF export of the report
 └── README.md
 ```
 
