@@ -4,7 +4,7 @@ A data processing and analysis project focused on historical FIFA World Cup tour
 
 ## Report
 
-The Power BI report built on top of the processed datasets is available as a PDF (static, non-interactive): [WorldCupReport.pdf](report/WorldCupReport.pdf).
+The Power BI report built on top of the processed datasets is available as a PDF (static, non-interactive): [WorldCupReport.pdf](report/WorldCupReport.pdf?raw=true).
 
 The interactive source file is [worldcup.pbix](report/worldcup.pbix) and can be opened with Power BI Desktop.
 
